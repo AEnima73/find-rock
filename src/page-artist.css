@@ -1,0 +1,14 @@
+body {
+  color: #666;
+}
+.top50 {
+  margin-top: 50px;
+}
+.pic-artist {
+  border-radius: 50%;
+  width: 250px;
+}
+.margenes50 {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
